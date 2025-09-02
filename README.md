@@ -41,7 +41,8 @@ The system integrates **hardware + software + deep learning**:
 ### Prototype Images
 
 #### Raspberry Pi + Gas Sensor Setup
-![Hardware Setup](file-4hLdf9STrrYs1AjfJHcoiR)
+![Hardware Setup]![WhatsApp Image 2025-09-02 at 17 49 53_1bf73ad5](https://github.com/user-attachments/assets/3a0e9daa-977a-4f0c-bfc4-7cc9a035677e)
+
 
 #### Sensor + Camera Connected to Laptop
 ![Laptop Integration](file-Eu4nxaZ5TCt8XjbQJkH1aM)
@@ -91,49 +92,6 @@ The app provides **real-time predictions**, displaying:
 - **Database**: SQLite/Firebase (for storing logs)
 - **Version Control**: Git & GitHub
 - **Tools**: Jupyter Notebook, VS Code
-
----
-
-## 🚀 Installation & Usage
-
-### Prerequisites
-- Raspberry Pi 4 (with Raspbian OS)
-- Python 3.8+
-- Installed libraries: `tensorflow`, `keras`, `opencv`, `flask`, `requests`
-
-### Steps
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/smart-food-spoilage-detection.git
-   cd smart-food-spoilage-detection
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run Deep Learning Model Training (Optional)**
-   ```bash
-   jupyter notebook DL_MODEL.ipynb
-   ```
-
-4. **Start the Backend Server**
-   ```bash
-   python app/server.py
-   ```
-
-5. **Launch Mobile App**
-   - Navigate to the `app/` folder
-   - Run using Expo/React Native CLI
-   ```bash
-   npm install
-   npm start
-   ```
-
-6. **Connect Hardware**
-   - Attach MQ sensor + Pi Camera to Raspberry Pi.
-   - Place food items and run detection.
 
 ---
 
