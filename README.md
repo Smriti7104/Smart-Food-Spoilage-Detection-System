@@ -64,7 +64,7 @@ We trained a **Convolutional Neural Network (CNN)** to classify food as **fresh*
 
 ### Training Results
 - **Accuracy Graph**
-![Accuracy Graph]<img width="361" height="282" alt="Screenshot 2025-07-03 232344" src="https://github.com/user-attachments/assets/9729ff85-69f4-411a-9a8a-5152984b465e" />
+<img width="361" height="282" alt="Screenshot 2025-07-03 232344" src="https://github.com/user-attachments/assets/9729ff85-69f4-411a-9a8a-5152984b465e" />
 
 
 - **Loss Graph**
@@ -87,8 +87,7 @@ The app provides **real-time predictions**, displaying:
 - 📷 Food image captured
 - ✅ Fresh / ❌ Rotten status
 - 🧪 Detected gases with concentration levels
-
-![App Display]![IMG-20250902-WA0022 1](https://github.com/user-attachments/assets/1b983424-fc12-433b-8c3e-76dacea16dea)
+![IMG-20250902-WA0022 1](https://github.com/user-attachments/assets/1b983424-fc12-433b-8c3e-76dacea16dea)
 
 
 ---
