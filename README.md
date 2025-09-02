@@ -39,22 +39,21 @@ The system integrates **hardware + software + deep learning**:
 - Breadboard & jumper wires
 
 ### Prototype Images
-
 #### Raspberry Pi + Gas Sensor Setup
-![Hardware Setup]![WhatsApp Image 2025-09-02 at 18 00 26_bda49d55](https://github.com/user-attachments/assets/83423845-ffaa-471f-8fba-ffc688c95dc0)
+![WhatsApp Image 2025-09-02 at 18 00 26_bda49d55](https://github.com/user-attachments/assets/83423845-ffaa-471f-8fba-ffc688c95dc0)
 
 
 
 #### Sensor + Camera Connected to Laptop
-![Laptop Integration]![WhatsApp Image 2025-09-02 at 17 49 53_1bf73ad5](https://github.com/user-attachments/assets/f7a3c349-3c01-4c90-864e-150eb1de5c83)
+![WhatsApp Image 2025-09-02 at 17 49 53_1bf73ad5](https://github.com/user-attachments/assets/f7a3c349-3c01-4c90-864e-150eb1de5c83)
 
 
 #### Mobile App Displaying Prediction
-![App Output]![WhatsApp Image 2025-09-02 at 17 49 52_1ad2253a](https://github.com/user-attachments/assets/5fb7b0f6-1143-4c81-a95f-d4e26be85de8)
+![WhatsApp Image 2025-09-02 at 17 49 52_1ad2253a](https://github.com/user-attachments/assets/5fb7b0f6-1143-4c81-a95f-d4e26be85de8)
 
 
 #### Prototype with Food Samples
-![Prototype Demo]![WhatsApp Image 2025-07-30 at 13 08 36_a48f9737](https://github.com/user-attachments/assets/f8195202-653b-4094-b604-bfeb41214b2b)
+![WhatsApp Image 2025-07-30 at 13 08 36_a48f9737](https://github.com/user-attachments/assets/f8195202-653b-4094-b604-bfeb41214b2b)
 
 
 ---
@@ -69,16 +68,16 @@ We trained a **Convolutional Neural Network (CNN)** to classify food as **fresh*
 
 
 - **Loss Graph**
-![Loss Graph]<img width="357" height="272" alt="Screenshot 2025-07-03 232422" src="https://github.com/user-attachments/assets/df0776dc-2107-49ce-888f-a8162e8c0752" />
+<img width="357" height="272" alt="Screenshot 2025-07-03 232422" src="https://github.com/user-attachments/assets/df0776dc-2107-49ce-888f-a8162e8c0752" />
 
 
 ### Sample Predictions
 - Fresh Food Detection:
-![Fresh Prediction]<img width="303" height="286" alt="Screenshot 2025-07-03 232942" src="https://github.com/user-attachments/assets/530a263f-5f1a-4164-b119-4040ea547d43" />
+<img width="303" height="286" alt="Screenshot 2025-07-03 232942" src="https://github.com/user-attachments/assets/530a263f-5f1a-4164-b119-4040ea547d43" />
 
 
 - Rotten Food Detection:
-![Rotten Prediction]<img width="365" height="367" alt="Screenshot 2025-07-03 233041" src="https://github.com/user-attachments/assets/d6737f0a-2e56-4bca-83af-9d5e9a38c3a4" />
+<img width="365" height="367" alt="Screenshot 2025-07-03 233041" src="https://github.com/user-attachments/assets/d6737f0a-2e56-4bca-83af-9d5e9a38c3a4" />
 
 
 ---
