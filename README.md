@@ -87,6 +87,7 @@ The app provides **real-time predictions**, displaying:
 - 📷 Food image captured
 - ✅ Fresh / ❌ Rotten status
 - 🧪 Detected gases with concentration levels
+  
 ![IMG-20250902-WA0022 1](https://github.com/user-attachments/assets/1b983424-fc12-433b-8c3e-76dacea16dea)
 
 
